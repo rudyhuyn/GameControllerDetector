@@ -3,3 +3,7 @@
 ################################################################################
 
 /.vs/GamepadDetection/v15
+/GamepadDetection/bin/x86/Debug
+/GamepadDetection/obj
+/GamepadDetection/GamepadDetection.csproj.user
+/GamepadDetection/runsdvui.cmd
